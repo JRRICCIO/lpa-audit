@@ -40,7 +40,6 @@ The full 18-point version, with senior fund-formation review and remediation dra
 
 - LinkedIn: send a DM to https://www.linkedin.com/company/109984825/
 - WhatsApp: +352 661 228 679
-- Web: https://substance-audit.netlify.app/
 
 ## What's in the package
 
